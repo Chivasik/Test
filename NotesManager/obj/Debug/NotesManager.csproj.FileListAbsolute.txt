@@ -22,3 +22,15 @@ C:\NotesManager\NotesManager\obj\Debug\NotesManager.Form3.resources
 C:\NotesManager\NotesManager\obj\Debug\NotesManager.Form4.resources
 C:\NotesManager\NotesManager\obj\Debug\NotesManager.Properties.Resources.resources
 C:\NotesManager\NotesManager\obj\Debug\NotesManager.csproj.GenerateResource.Cache
+C:\NewPC\Test\NotesManager\bin\Debug\NotesManager.exe.config
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.exe
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.pdb
+C:\NewPC\Test\NotesManager\bin\Debug\NotesManager.exe
+C:\NewPC\Test\NotesManager\bin\Debug\NotesManager.pdb
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.csprojResolveAssemblyReference.cache
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.Form1.resources
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.Form2.resources
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.Form3.resources
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.Form4.resources
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.Properties.Resources.resources
+C:\NewPC\Test\NotesManager\obj\Debug\NotesManager.csproj.GenerateResource.Cache
