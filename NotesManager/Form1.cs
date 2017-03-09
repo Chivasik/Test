@@ -29,7 +29,9 @@ namespace NotesManager
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Test");
+            //string pass = "123";
+            //if (textBox1.Text() == pass) { }
         }
     }
 }
