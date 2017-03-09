@@ -1,0 +1,12 @@
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\bin\Debug\NotesManager.exe.config
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\bin\Debug\NotesManager.exe
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\bin\Debug\NotesManager.pdb
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.csprojResolveAssemblyReference.cache
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.Form1.resources
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.Form2.resources
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.Form3.resources
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.Form4.resources
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.Properties.Resources.resources
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.csproj.GenerateResource.Cache
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.exe
+C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.pdb
