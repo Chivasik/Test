@@ -10,3 +10,6 @@ C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug
 C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.csproj.GenerateResource.Cache
 C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.exe
 C:\Users\CHIVAS\Documents\WINFORM\09.03.2017\NotesManager\NotesManager\obj\Debug\NotesManager.pdb
+C:\NotesManager\NotesManager\bin\Debug\NotesManager.exe.config
+C:\NotesManager\NotesManager\obj\Debug\NotesManager.exe
+C:\NotesManager\NotesManager\obj\Debug\NotesManager.pdb
